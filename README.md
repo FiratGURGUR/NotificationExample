@@ -16,4 +16,4 @@
 
 ![](https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image4.jpg | width=300)
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image1.jpg" width="200" height="400" />
+<img src="https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image1.jpg" width="40%">
