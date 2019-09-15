@@ -8,10 +8,10 @@
 
 ### ScreenShots 
 
-![](https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image1.jpg)
+![](https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image1.jpg | width=300)
 
-![](https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image2.jpg)
+![](https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image2.jpg | width=300)
 
-![](https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image3.jpg)
+![](https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image3.jpg | width=300)
 
-![](https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image4.jpg)
+![](https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image4.jpg | width=300)
