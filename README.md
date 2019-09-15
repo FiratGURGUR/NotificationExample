@@ -6,7 +6,8 @@
 - Notification with Expandable Description.
 - Notification with BigPicture (Expandable Image)
 
-###ScreenShots 
+### ScreenShots 
+
 ![](https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image1.jpg)
 
 ![](https://github.com/FiratGURGUR/NotificationExample/blob/master/app/src/main/res/drawable/image2.jpg)
